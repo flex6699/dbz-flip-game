@@ -1,6 +1,6 @@
 .App {
   max-width: 860px;
-  margin-left: 40px;
+  margin: 40px auto;
 }
 button {
   background: none;
